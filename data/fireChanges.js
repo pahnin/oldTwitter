@@ -1,3 +1,5 @@
+$(".dashboard-right .Footer").appendTo(".dashboard-left");
+$("body.three-col .wrapper").css({"max-width": "900px"}); 
 $(".global-nav .container").css({"max-width": "900px"}); 
 $(".global-nav-inner").css({"background": "#3d3d3d"}); 
 $(".nav > li > a, .nav > li > button").css({ "color": "rgb(187, 187, 187)"}); 
