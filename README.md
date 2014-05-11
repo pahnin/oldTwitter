@@ -1,6 +1,9 @@
-Twitter on Feb 4 2014 rolled out a new whitish snowish gloassy design which many people like me didnt like.
-I wrote a small script which changes some css so that twitter may look easy on the eyes.
-Packed it in small extention so that I don't have to call it everytime :)
-
+Like me, if you too want to see twitter.com like this in your firefox
+![Old twitter](http://i.imgur.com/xI29vAD.png)
+Instead of looking like this
+![New style](http://i.imgur.com/jHlzPjz.png)
+I packed some [code](https://github.com/pahnin/oldTwitter/blob/master/data/fireChanges.js) in a small [extension](https://github.com/pahnin/oldTwitter/blob/master/oldtwitter.xpi) 
 
 https://addons.mozilla.org/en-US/firefox/addon/oldtwitter/
+
+http://pahnin.github.io/oldTwitter/
