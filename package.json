@@ -2,8 +2,8 @@
   "name": "oldtwitter",
   "title": "oldTwitter",
   "id": "jid1-m2MyYyhZngnFpw",
-  "description": "a basic add-on",
+  "description": "This add on tries to make your twitter.com look like old style twitter",
   "author": "",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.2"
 }
